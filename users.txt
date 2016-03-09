@@ -1,0 +1,7 @@
+Vasya 1234
+Petya 5678
+Vova 9012
+Dima 3456
+Qwert 4567
+Lev 7890
+Igor 8765
